@@ -28,20 +28,25 @@ Add Megadrive implementation
 - MD 3 btn
 
 ## Phase 3
+Add button mapping 
+
+## Phase 4
 Add compatible implementations
 
 - NES
 - SMS
 - Atari
 
-## Phase 4
+## Phase 5
 Add digital implementations
 
 - PSOne (SCPH-1080)
 - DualShock (SCPH-1200)
 
-## Phase 5
-Add N64 implementation
+## Phase 6
+Add implementation
+
+- N64
 
 
 # Out of scope
