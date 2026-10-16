@@ -28,14 +28,15 @@ Add Megadrive implementation
 - MD 3 btn
 
 ## Phase 3
-Add button mapping 
-
-## Phase 4
 Add compatible implementations
 
 - NES
 - SMS
 - Atari
+
+
+## Phase 4
+Add button profiles 
 
 ## Phase 5
 Add digital implementations
@@ -47,7 +48,9 @@ Add digital implementations
 Add implementation
 
 - N64
-
+- 
+## Phase 7
+Add button mapping
 
 # Out of scope
 DualShock 3	USB Ps3
