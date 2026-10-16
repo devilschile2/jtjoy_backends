@@ -1,18 +1,18 @@
-# Analisis de Implementaciones de mandos
+# Controller pad analysis
 
-Familia	Mandos	Implementación
-Serie	NES / SNES	LATCH + CLOCK + DATA
-Paralela directa	SMS / Atari compatible	Lectura de GPIO
-Paralela multiplexada	Mega Drive 3/6 botones	TH + lectura de GPIO
-Paralela multiplexada	PcEngine TH + lectura de GPIO
+Family	            Controller	             Implementation
+Serial	            NES / SNES	             LATCH + CLOCK + DATA
+Direct Paralel 	    SMS / Atari compatible	 GPIO Read
+Multiplexed Paralel Mega Drive 3/6 btn	     TH + GPIO Read
+Multiplexed Paralel PcEngine                 TH + GPIO Read
 
-Saturn original	SNAC7 + futuro backend
-PS1 digital	SNAC7 + futuro backend
-N64 digital SNAC7 + futuro backend
+Saturn original	SNAC7 + future backend
+PS1 digital	SNAC7 + future backend
+N64 digital SNAC7 + future backend
 
-Fuera del alcance, interviene el OS
+Out of scope, OS dependant
 DualShock 3	USB
-DualShock 3 inalámbrico	Bluetooth
+DualShock 3 Wireless	Bluetooth
 
 
 # Roadmap
